@@ -2,6 +2,8 @@
 
 OrbitInfluences is a standalone visual mod for **Kerbal Space Program 1.12.5**. It shows a celestial body's sphere of influence (SOI) in the map and marks predicted SOI crossings with animated waves. It does not change trajectories or orbital mechanics.
 
+![OrbitInfluences SOI boundaries and trajectory in KSP Map View](images/orbit-influences.jpg)
+
 ## What it shows
 
 - **Orbit Ring:** a thin SOI boundary aligned with the selected vessel's relevant orbital plane. If no vessel orbit applies, it uses the body's orbital plane or a stable reference plane.
