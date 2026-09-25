@@ -1,0 +1,6 @@
+/tests/bin/
+/tests/obj/
+/GameData/OrbitInfluences/Plugins/PluginData/
+/dist/
+*.pdb
+KSP.log
