@@ -1,3 +1,5 @@
+> **AI involvement disclosure:** ChatGPT-6 was involved in the development of this project.
+
 # OrbitInfluences
 
 OrbitInfluences is a standalone visual mod for **Kerbal Space Program 1.12.5**. It shows a celestial body's sphere of influence (SOI) in the map and marks predicted SOI crossings with animated waves. It does not change trajectories or orbital mechanics.
